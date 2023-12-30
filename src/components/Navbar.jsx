@@ -42,7 +42,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src="https://cdn.dribbble.com/users/160383/screenshots/5656135/scott_4x.png" alt='logo' className='w-9 h-9 object-contain' />
+          <img src="src/assets/Shitanshu sahu.jpeg" alt='logo' className='w-18 h-9 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Shitanshu &nbsp;
             <span className='sm:block hidden'> | <span className = "text-red-500">Full Stack Developer</span></span>
